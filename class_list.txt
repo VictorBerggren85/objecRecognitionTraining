@@ -1,0 +1,4 @@
+green_barrel
+red_barrel
+blue_zone
+yellow_zone
