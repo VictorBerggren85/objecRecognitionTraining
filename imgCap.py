@@ -4,8 +4,8 @@ import time
 from picamera2 import Picamera2
 
 imgNr=0
-capWidth=640
-capHeight=480
+capWidth=415
+capHeight=415
 capFormat='XBGR8888'
 run=True
 path='imgs/'
