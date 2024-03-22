@@ -10,6 +10,7 @@
 # pip install pyyaml h5py  # Required to save models in HDF5 format
 
 #https://medium.com/analytics-vidhya/image-dataset-labeling-annotation-bec3390eda2d
+#https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_64-bits
 
 import numpy as np 
 import tensorFlow as tf
