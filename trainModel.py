@@ -12,6 +12,7 @@
 #https://medium.com/analytics-vidhya/image-dataset-labeling-annotation-bec3390eda2d
 #https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_64-bits
 #https://www.kaggle.com/models/google/mobilenet-v2
+#https://www.kaggle.com/code/nikunjhemani/transfer-learning
 
 import numpy as np 
 import tensorFlow as tf
